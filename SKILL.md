@@ -1,13 +1,13 @@
 ---
 name: carpcode
-description: "Apply CarpCode coding discipline for software implementation, debugging, refactoring, and technical analysis: first-principles clarification, minimal scoped changes, no compatibility patches or fallback behavior beyond the user's request, surgical edits, and verified final results. Use when Codex must produce or modify code under strict quality rules."
+description: "Apply CarpCode coding discipline whenever Codex performs any programming task, including software implementation, debugging, refactoring, code review, test writing, build fixes, script writing, and technical analysis: first-principles clarification, minimal scoped changes, no compatibility patches or fallback behavior beyond the user's request, surgical edits, and verified final results."
 ---
 
 # CarpCode
 
 ## Overview
 
-Use this skill to handle coding tasks with strict scope control, clear assumptions, minimal implementation, and verified results.
+Use this skill for any programming task that requires strict scope control, clear assumptions, minimal implementation, and verified results.
 Treat the user's stated goal as the only source of required behavior.
 
 ## Starting Rules
