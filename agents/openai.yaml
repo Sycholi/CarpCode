@@ -1,0 +1,4 @@
+interface:
+  display_name: "CarpCode"
+  short_description: "审慎澄清、最小正确改动、完整验证优先的编码执行准则"
+  default_prompt: "Use $carpcode to implement this coding task with minimal scoped changes and verified results."
