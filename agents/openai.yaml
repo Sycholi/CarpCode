@@ -1,4 +1,4 @@
 interface:
   display_name: "CarpCode"
-  short_description: "任意编程任务中的审慎澄清、最小改动和完整验证执行准则"
-  default_prompt: "Use $carpcode for this programming task with minimal scoped changes and verified results."
+  short_description: "通用软件工程中的范围控制、局部修改和任务内验证规范"
+  default_prompt: "Use $carpcode to complete this software-engineering task with a minimal scoped change and task-proportionate verification."
