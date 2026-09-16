@@ -1,6 +1,6 @@
 ---
 name: carpcode
-description: "Apply scope control, surgical edits, and task-proportionate verification to general software-engineering work, including implementation, debugging, refactoring, code review, test writing, and build repair. Use biocarp for one-off biomedical R or Python analysis workflows; add carpcode in that domain only for package, library, pipeline-software, or repository engineering."
+description: "Apply scope control, surgical edits, and task-proportionate verification to general software-engineering work, including implementation, debugging, refactoring, code review, test writing, and build repair. Use bioiq for one-off biomedical R or Python analysis workflows; add carpcode in that domain only for package, library, pipeline-software, or repository engineering."
 ---
 
 # CarpCode
