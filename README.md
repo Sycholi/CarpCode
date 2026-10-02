@@ -28,7 +28,7 @@ python "${CODEX_HOME:-$HOME/.codex}/skills/.system/skill-installer/scripts/insta
 - 需要控制改动范围并保护现有行为的软件工程任务
 - 生物医学软件包、分析流程和工具仓库的工程开发
 
-一次性的生物医学 R 或 Python 数据分析应使用 `biocarp`。只有涉及软件包、程序库、流程软件或仓库工程时，才同时使用 `carpcode`。
+一次性的生物医学 R 或 Python 数据分析应使用 `bioiq`。只有涉及软件包、程序库、流程软件或仓库工程时，才同时使用 `carpcode`。
 
 ## 使用方法
 
